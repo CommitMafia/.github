@@ -1,31 +1,38 @@
-# CommitMafia
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CommitMafia/.github/main/assets/logo.png" alt="CommitMafia Logo" width="120" />
+</p>
 
-## Hi there 👋
+<h1 align="center">CommitMafia</h1>
 
-🚀 **CommitMafia** is a collective workspace for personal experiments, freelance projects, and microtools crafted with care.
+<p align="center">🚀 Experiments, freelance builds, and microtools crafted with speed and intent.</p>
 
-We build fast, small, and practical tools across Web3, DevTools, and modern web technologies. Some projects start as experiments, some evolve into fully-fledged products.
+---
 
-**What you'll find here:**
+## 🚩 What is CommitMafia?
+
+CommitMafia is a collective workspace for:
+
 - ⚡️ Micro SaaS experiments
 - 🛠️ Web3 utilities and SDKs
-- 🧩 Freelance delivery repos
-- 🗂️ Templates and CLI tools
-- 🧪 Research and weekend builds
+- 🧩 Freelance project delivery
+- 🗂️ CLI tools and templates
+- 🧪 Research + weekend builds
+
+Some projects start as experiments, some evolve into full products, all built with shipping first.
 
 ---
 
-### 🚩 Why "CommitMafia"?
+## 🧭 Why "CommitMafia"?
 
-Because we believe in committing fast, iterating often, and shipping without overthinking.
-
----
-
-### 📫 Contact
-
-- **Founder:** [itsarjn](https://github.com/arjun-r34)
-- **DM for freelance collaborations.**
+Because we commit fast, iterate often, and build without overthinking.
 
 ---
 
-### ⚡️ Stay tuned for builds that help you move faster.
+## 📫 Contact
+
+- **Founder:** [@itsarjn](https://github.com/itsarjn)
+- DM for freelance collaboration.
+
+---
+
+## 🚀 Stay tuned for tools that help you move faster.
