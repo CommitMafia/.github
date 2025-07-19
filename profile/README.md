@@ -61,7 +61,7 @@ We move in small, sharp sprints and believe in earning real user feedback early.
 
 &nbsp;
 
-- **Founder:** [@itsarjn](https://github.com/itsarjn)  
+- **Founder:** [@itsarjn](https://github.com/arjun-r34)  
 - DM for freelance collaborations or to jam on experiments.  
 
 ---
