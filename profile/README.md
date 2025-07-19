@@ -23,7 +23,7 @@ Because we believe in committing fast, iterating often, and shipping without ove
 
 ### 📫 Contact
 
-- **Founder:** [itsarjn](https://github.com/itsarjn)
+- **Founder:** [itsarjn](https://github.com/arjun-r34)
 - **DM for freelance collaborations.**
 
 ---
