@@ -4,6 +4,8 @@
 
 <h1 align="center">CommitMafia</h1>
 
+&nbsp;
+
 <p align="center">
   🚀 A digital garage for experiments, freelance builds, and microtools that move fast and ship faster.
 </p>
