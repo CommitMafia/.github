@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/CommitMafia/.github/assets/CommitMafia.png" alt="CommitMafia Logo" width="160" />
+  <img src="https://github.com/CommitMafia/.github/blob/e19ca28388bb5b2b1f60337abe72ea957ca7c7e6/assets/CommitMafia.png" alt="CommitMafia Logo" width="160" />
 </p>
 
 <h1 align="center">CommitMafia</h1>
